@@ -7,3 +7,5 @@ for i in range(10):
     system("cls")
     print(randint(0, 9))
     sleep(0.1 * i)
+
+# The end of the file
